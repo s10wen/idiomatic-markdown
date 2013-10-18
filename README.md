@@ -27,22 +27,22 @@ I've added a few starting ideas listed below, I'm interested to see what other p
 
 `h1`, `h2`, `code block`, `hr`.
 
-````
+```
 # Header 1
 
 
 ## Header 2
 
 
-```
+\```
 Code block to be wrapped in 3 backticks aka Grave Accent
-```
+\```
 
 
 ***
 
 
-````
+```
 
 
 ### 1 x Line Break
